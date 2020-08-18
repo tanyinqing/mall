@@ -1,2 +1,13 @@
+- [mall学习教程目录](https://mp.weixin.qq.com/s/s_dKL9aAFXgtQi0VO1Ovdw)   
 - 登录和注册   
 - 基础模块说明
+- rabbit和redis和mongodb配置
+- mall整合SpringTask实现定时任务
+- 整合SpringSecurity和JWT实现认证和授权
+- 整合Swagger-UI实现在线API文档
+- 整合Elasticsearch实现商品搜索
+- 整合Mongodb实现文档操作
+    - MemberReadHistoryRepository   MemberReadHistory
+    - MemberReadHistoryServiceImpl   MemberReadHistoryController
+- 整合Redis实现缓存功能
+    - RedisService  UmsMemberController
