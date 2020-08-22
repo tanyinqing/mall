@@ -1,3 +1,7 @@
+# 主要的类
+
+`PmsProductController  UmsAdminServiceImpl  DynamicSecurityFilter  UmsResourceController            ` 
+
 # JwtTokenUtil
 
 - generateToken(UserDetails userDetails) :用于根据登录用户信息生成token
